@@ -5,4 +5,5 @@ I like Rust and Gentoo \
 and \
 uh \
 Jpop? \
-that's all!!
+that's all!! \
+i also make very weird commits... i think
